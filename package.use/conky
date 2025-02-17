@@ -1,0 +1,1 @@
+app-admin/conky -X -xinerama -truetype extras intel-backlight iostats pulseaudio wifi
